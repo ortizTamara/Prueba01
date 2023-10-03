@@ -5,3 +5,4 @@ TAG 0.1
 TAG 0.2
 TAG 0.3
 TAG 0.4
+TAG 1.0
